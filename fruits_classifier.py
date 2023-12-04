@@ -33,8 +33,8 @@ from keras.callbacks import EarlyStopping
 # Visualizing Model Architecture
 # from IPython.display import SVG
 # from keras.utils.vis_utils import model_to_dot
-from keras.utils import plot_model
-import pydot
+# from keras.utils import plot_model
+# import pydot
 
 # loading saved cnn model
 from keras.models import load_model
